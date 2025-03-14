@@ -1,7 +1,7 @@
 package classes;
 
-import Concrete.FlyNoWay;
-import Concrete.MuteQuack;
+import behaviors_impl.FlyNoWay;
+import behaviors_impl.MuteQuack;
 
 public class RubberDuck extends Duck{
 

@@ -35,7 +35,7 @@ We define two separate interfaces:
 
 These interfaces allow different types of ducks to have different behaviors **without modifying the main `Duck` class**.
 
-### **2️⃣ Create Concrete Implementations**
+### **2️⃣ Create behaviors_impl Implementations**
 Now, we implement different flying and quacking strategies. Each concrete class implements the interface separately, allowing flexibility when assigning behaviors.
 
 ### **3️⃣ Modify the Duck Class to Use Strategies**

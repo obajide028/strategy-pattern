@@ -1,4 +1,4 @@
-package Concrete;
+package behaviors_impl;
 
 import interfaces.QuackBehavior;
 
