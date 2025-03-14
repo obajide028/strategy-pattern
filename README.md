@@ -15,9 +15,9 @@ The **Strategy Pattern** is like giving an object multiple ways to do something 
 - **Composition over Inheritance**: Instead of using inheritance to define behavior, it uses composition to delegate behavior to different classes.
 
 ### **Advantages**
-✅ **Flexibility** – Behaviors can be changed dynamically.
-✅ **Reusability** – Common behaviors can be reused across different classes.
-✅ **Adherence to SOLID Principles**:
+- ✅ **Flexibility** – Behaviors can be changed dynamically.
+- ✅ **Reusability** – Common behaviors can be reused across different classes.
+- ✅ **Adherence to SOLID Principles**:
 - **Open/Closed Principle** – Adding new behaviors doesn't require modifying existing classes.
 - **Single Responsibility Principle** – Behavior logic is encapsulated in dedicated classes.
 
