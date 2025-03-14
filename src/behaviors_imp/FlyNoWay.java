@@ -1,4 +1,4 @@
-package behaviors_impl;
+package behaviors_imp;
 
 import interfaces.FlyBehavior;
 

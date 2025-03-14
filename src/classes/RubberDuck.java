@@ -1,7 +1,7 @@
 package classes;
 
-import behaviors_impl.FlyNoWay;
-import behaviors_impl.MuteQuack;
+import behaviors_imp.FlyNoWay;
+import behaviors_imp.MuteQuack;
 
 public class RubberDuck extends Duck{
 

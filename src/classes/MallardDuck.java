@@ -1,7 +1,7 @@
 package classes;
 
-import behaviors_impl.FlyWithWings;
-import behaviors_impl.Quack;
+import behaviors_imp.FlyWithWings;
+import behaviors_imp.Quack;
 
 public class MallardDuck extends Duck {
 
