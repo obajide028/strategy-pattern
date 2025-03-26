@@ -18,8 +18,8 @@ The **Strategy Pattern** is like giving an object multiple ways to do something 
 - ✅ **Flexibility** – Behaviors can be changed dynamically.
 - ✅ **Reusability** – Common behaviors can be reused across different classes.
 - ✅ **Adherence to SOLID Principles**:
-- **Open/Closed Principle** – Adding new behaviors doesn't require modifying existing classes.
-- **Single Responsibility Principle** – Behavior logic is encapsulated in dedicated classes.
+  - **Open/Closed Principle** – Adding new behaviors doesn't require modifying existing classes.
+  - **Single Responsibility Principle** – Behavior logic is encapsulated in dedicated classes.
 
 ---
 
